@@ -1,0 +1,4 @@
+_IGNORE_session
+node_modules
+media
+session.data.json

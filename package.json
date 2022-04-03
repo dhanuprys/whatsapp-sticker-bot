@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.33.1",
+    "rimraf": "^3.0.2"
+  }
+}
